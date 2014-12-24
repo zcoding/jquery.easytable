@@ -24,7 +24,7 @@ module.exports = function(grunt) {
       },
       plugin: {
         files: {
-          'js/jquery.easytaable.coffee.js': ['coffee/jquery.easytable.coffee']
+          'js/jquery.easytable.coffee.js': ['coffee/jquery.easytable.coffee']
         }
       }
     },
